@@ -1,4 +1,2 @@
-# CSES
-
-## This repo is to understand the problems relates to the programming
-
+## CSES
+# it is my learning repo by solving cses questions
