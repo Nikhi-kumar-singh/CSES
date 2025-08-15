@@ -86,7 +86,7 @@ void solve() {
     for (int i = 0; i < m; ++i){
         char ch;
         int a,b;
-        cin >> ch >> a >> b;
+        ci: >> ch >> a >> b;
 
         if(ch == '!'){
             --a;
